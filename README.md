@@ -10,4 +10,3 @@ Use Commands:
 !Jake
 !Cheesecake
 !simp
-!Kyle 
