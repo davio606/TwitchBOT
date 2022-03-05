@@ -1,4 +1,4 @@
-const TWITCH_OAUTH_TOKEN='oauth:knq4fcupyox98wy1og8vxf1qbs47zi'
+const TWITCH_OAUTH_TOKEN=''
 
 const tmi = require('tmi.js');
 
